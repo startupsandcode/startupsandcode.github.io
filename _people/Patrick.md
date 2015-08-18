@@ -1,4 +1,0 @@
----
-firstName: Sean
-lastName: Handley
----
