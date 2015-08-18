@@ -12,3 +12,6 @@ github_username:  lotekmedia
 
 # Build settings
 markdown: kramdown
+
+collections:  
+ - people
