@@ -4,7 +4,7 @@ email: me@johnmann.org
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal github site that I have random code snippets,
   sandboxes, and some random thoughts.  Thanks for stopping by.
-  Check out my blog at http://johnmann.org
+  Check out my blog at <a href="http://johnmann.org">http://johnmann.org</a>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://johnmann.org" # the base hostname & protocol for your site
 twitter_username: lotekmedia
