@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to LotekMedia"
 date:   2015-08-17 19:54:49
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Just learning about Jekyll and github pages, and thought I'd play. :-)  Ok, it is pretty cool what you can do.
+
+I'm a c# developer with some crazy love for JavaScript and front-end work.  I even can do email html design, yeah, tables, tables, tables (and it works in outlook too!)
+
+I'm just playing right now and learning more and more.  Special thanks to @BigNerdRanch for the inspiration and help.
+
+
+Here are some notes for me to remember when I post with Jekyll.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
