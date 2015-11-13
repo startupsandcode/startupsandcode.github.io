@@ -1,10 +1,10 @@
 # Site settings
 title: Lotek Media
 email: me@johnmann.org
-description: > # this means to ignore newlines until "baseurl:"
-  This is my personal github site that I have random code snippets,
+description: ># 
+    This is my personal github site that I have random code snippets,
   sandboxes, and some random thoughts.  Thanks for stopping by.
-  Check out my blog at <a href="http://johnmann.org">http://johnmann.org</a>
+  Check out my blog at &lt;a href=&quot;http://johnmann.org&quot;&gt;http://johnmann.org&lt;/a&gt;
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lotekmedia.github.io" # the base hostname & protocol for your site
 twitter_username: lotekmedia
@@ -54,6 +54,9 @@ links:
     url: /
     external: false
     icon: home
+  - title: Blog
+    external: true
+    url: http://johnmann.org
 
 collections:  
  - people
