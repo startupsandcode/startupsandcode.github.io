@@ -54,9 +54,6 @@ links:
     url: /
     external: false
     icon: home
-  - title: Blog
-    external: true
-    url: http://johnmann.org
 
 collections:  
  - people
