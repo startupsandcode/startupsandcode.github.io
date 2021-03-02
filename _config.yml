@@ -1,7 +1,7 @@
 # Site settings
 title: Lotek Media
-email: me@johnmann.org
-description: This is my personal github site that I have random code snippets, sandboxes, and some random thoughts.  Thanks for stopping by.  Check out my blog at <a href="http://johnmann.org">http://johnmann.org</>
+email: john@lotekmedia.com
+description: This is my personal github site that I have random code snippets, sandboxes, and some random thoughts.  Thanks for stopping by.  Check out my blog at <a href="http://johnmann.org">http://johnmann.org</a>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lotekmedia.github.io" # the base hostname & protocol for your site
 github_username:  lotekmedia
