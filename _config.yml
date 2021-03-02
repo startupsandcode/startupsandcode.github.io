@@ -41,8 +41,6 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    A code monkey with a love for teaching.
   # Social networking links used in footer. Update and remove as you like.
-  twitter: http://twitter.com/lotekmedia
-  facebook: http://facebook.com/ComputerJohn
   github: http://lotekmedia.github.io
   linkedin: http://linkedin.com/in/jmmann
 
