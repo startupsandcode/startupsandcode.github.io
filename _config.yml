@@ -4,7 +4,6 @@ email: me@johnmann.org
 description: This is my personal github site that I have random code snippets, sandboxes, and some random thoughts.  Thanks for stopping by.  Check out my blog at <a href="http://johnmann.org">http://johnmann.org</>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lotekmedia.github.io" # the base hostname & protocol for your site
-twitter_username: lotekmedia
 github_username:  lotekmedia
 default_bg:       default_bg.jpg
 search:           true
