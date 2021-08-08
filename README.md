@@ -1,2 +1,2 @@
-# lotekmedia.github.io
+# StartupsAndCode.github.io
 My GitHub Pages

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to LotekMedia"
+title:  "Welcome to StartupsAndCode"
 date:   2015-08-17 19:54:49
 categories: jekyll update
 ---
