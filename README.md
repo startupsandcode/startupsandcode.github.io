@@ -1,2 +1,2 @@
-# StartupsAndCode.github.io
+# startupsandcode.github.io
 My GitHub Pages
