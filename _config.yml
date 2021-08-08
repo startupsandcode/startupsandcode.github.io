@@ -3,7 +3,7 @@ title: Startups And Code
 email: john@startupsandcode.com
 description: This is my personal github site that I have random code snippets, sandboxes, and some random thoughts.  Thanks for stopping by.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://startupsandcode.github.io" # the base hostname & protocol for your site
+url: "https://startupsandcode.github.io" # the base hostname & protocol for your site
 github_username:  startupsandcode
 default_bg:       default_bg.jpg
 search:           true
@@ -40,7 +40,7 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    A code monkey with a love for teaching.
   # Social networking links used in footer. Update and remove as you like.
-  github: http://startupsandcode.github.io
+  github: https://startupsandcode.github.io
   linkedin: https://linkedin.com/in/jmmann
 
 links:
