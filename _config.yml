@@ -14,7 +14,7 @@ fin_color:        "255,255,255"
 # Build settings
 timezone:    America/New_York
 future:      true
-pygments:    true
+highlighter: 'rouge'
 markdown:    kramdown
 paginate:    6
 paginate_path: "page:num"
