@@ -5,7 +5,7 @@ description: This is my personal github site that I have random code snippets, s
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://startupsandcode.github.io" # the base hostname & protocol for your site
 github_username:  startupsandcode
-default_bg:       default_bg.jpg
+default_bg:       background-nyc.jpg
 search:           true
 share:            true
 readtime:         true
@@ -50,7 +50,7 @@ links:
     icon: home
   - title: Blog
     external: true
-    url: https://johnmann.org
+    url: https://blog.startupsandcode.com
 
 collections:  
  - people
