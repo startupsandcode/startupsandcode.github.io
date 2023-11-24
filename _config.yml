@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://startupsandcode.github.io" # the base hostname & protocol for your site
 github_username:  startupsandcode
 default_bg:       background-nyc.jpg
-search:           true
+search:           false
 share:            true
 readtime:         true
 animated_fins:    true
